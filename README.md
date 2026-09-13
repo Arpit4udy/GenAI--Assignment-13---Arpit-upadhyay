@@ -1,4 +1,9 @@
 # GenAI--Assignment-13---Arpit-upadhyay
+## Overview
+
+This repository contains solutions to four Python programming tasks completed as part of the **TuteDude GenAI Assignment 13**.
+
+Each task is implemented in a separate Python file and demonstrates different programming concepts such as Data Gathering , Data Cleaning and Exploratory Data Analysis (EDA)
 
 ## Files
 
@@ -38,7 +43,7 @@
 
 - [Task 7](task_7.ipynb)
   - **Description:**  
-    Feature Preparation.(Basic)
+    Feature Preparation.(Basic) - Encoding task.
 
 ## PART 3 EXPLORATORY DATA ANALYSIS
 
