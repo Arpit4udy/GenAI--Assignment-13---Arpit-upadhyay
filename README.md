@@ -4,7 +4,7 @@
 
 ### Python Programs
 
-- [task_1.py](task_1.py)
+- [Task 1](task_1.py)
   - **Description:**  
     Loading Data from csv. the csv file is - [online food delivery dataset.csv](online%20food%20delivery%20dataset.csv)
 
@@ -71,3 +71,33 @@
 - [View SQLite Database](sample.db)
   - **Description:**  
     SQL DataBase created from the task 3.
+
+
+
+    ## How to Run
+
+* Download or clone the project.
+* Open the project folder in VS Code or Jupyter Notebook.
+* For Python files (`.py`), open a terminal in the project folder and run:
+
+  ```bash
+  python Task-1.py
+  ```
+* For Jupyter Notebook files (`.ipynb`), open the notebook in VS Code or Jupyter Notebook and run the cells.
+
+Replace `Task-1.py` with the name of the required Python file. For notebook-based tasks, open the corresponding `.ipynb` file.
+
+## Technologies Used
+
+* Python 3
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQLite
+
+## Author
+
+**Arpit Upadhyay**
+
