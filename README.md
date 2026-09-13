@@ -29,7 +29,7 @@ Each task is implemented in a separate Python file and demonstrates different pr
   - **Description:**  
     MINI PROJECT: Movie Data Collector.
     -- the TMDB server is not working , So I used OMDb server and api key.
-    the generated CSV file is -  - [omdb_movies](omdb_movies.csv)
+    
 
 ## PART 2 DATA PREPROCESSING AND CLEANING
 
@@ -59,10 +59,7 @@ Each task is implemented in a separate Python file and demonstrates different pr
   - **Description:**  
     Insight and Observation.
     
-## Movies Dataset
-- [Movies dataset](tmdb_movies.csv)
-  - **Description:**  
-    the file generated from the MINI PROJECT.
+
 
 
   
