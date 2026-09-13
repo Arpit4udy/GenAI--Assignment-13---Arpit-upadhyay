@@ -16,11 +16,11 @@
   - **Description:**  
     Loading data from SQL Database. the database file is - [View SQLite Database](sample.db)
 
-- [task_4.py](task_4.py)
+- [task_4.ipynb](task_4.py)
   - **Description:**  
     MINI PROJECT: Movie Data Collector.
     -- the TMDB server is not working , So I used OMDb server and api key.
-    the generated CSV file is -  - [tmdb_movies.csv](tmdb_movies.csv)
+    the generated CSV file is -  - [omdb_movies.csv](omdb_movies.csv)
 
 - [task_5.ipynb](task_5.ipynb)
   - **Description:**  
