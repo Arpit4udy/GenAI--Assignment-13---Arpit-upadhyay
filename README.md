@@ -4,23 +4,30 @@
 
 ### Python Programs
 
+
+## PART - 1  DATA GATHERING
+
+
 - [Task 1](task_1.py)
   - **Description:**  
     Loading Data from csv. the csv file is - [online food delivery dataset.csv](online%20food%20delivery%20dataset.csv)
 
-- [task_2.py](task_2.py)
+- [Task 2](task_2.py)
   - **Description:**  
     Loading Data from JSON. the json file is - - [airports.json](airports.json)
 
-- [task_3.py](task_3.py)
+- [Task 3](task_3.py)
   - **Description:**  
     Loading data from SQL Database. the database file is - [View SQLite Database](sample.db)
 
+### MINI PROJECT
 - [task_4.ipynb](task_4.py)
   - **Description:**  
     MINI PROJECT: Movie Data Collector.
     -- the TMDB server is not working , So I used OMDb server and api key.
     the generated CSV file is -  - [omdb_movies.csv](omdb_movies.csv)
+
+## PART 2 DATA PREPROCESSING AND CLEANING
 
 - [task_5.ipynb](task_5.ipynb)
   - **Description:**  
@@ -33,6 +40,8 @@
 - [task_7.ipynb](task_7.ipynb)
   - **Description:**  
     Feature Preparation.(Basic)
+
+## PART 3 EXPLORATORY DATA ANALYSIS
 
 - [task_8.ipynb](task_8.ipynb)
   - **Description:**  
