@@ -2,7 +2,6 @@
 
 ## Files
 
-### Python Programs
 
 
 ## PART - 1  DATA GATHERING
