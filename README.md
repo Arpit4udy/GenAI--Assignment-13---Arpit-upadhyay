@@ -14,15 +14,15 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 - [Task 1](task_1.py)
   - **Description:**  
-    Loading Data from csv. the csv file is - [online food delivery dataset](online%20food%20delivery%20dataset.csv)
+    Loading Data from csv. the csv file was online food delivery dataset.
 
 - [Task 2](task_2.py)
   - **Description:**  
-    Loading Data from JSON. the json file is - - [airports](airports.json)
+    Loading Data from JSON.
 
 - [Task 3](task_3.py)
   - **Description:**  
-    Loading data from SQL Database. the database file is - [View SQLite Database](sample.db)
+    Loading data from SQL Database. the database file is -
 
 ### MINI PROJECT
 - [Task 4](task_4.py)
@@ -59,33 +59,13 @@ Each task is implemented in a separate Python file and demonstrates different pr
   - **Description:**  
     Insight and Observation.
     
-
+## Movies Dataset
 - [Movies dataset](tmdb_movies.csv)
   - **Description:**  
     the file generated from the MINI PROJECT.
 
 
-    ### Online Food Delivery Dataset
-
-- [online food delivery dataset](online%20food%20delivery%20dataset.csv)
-  - **Description:**  
-    this is the file uploaded for cleaning from task 1.
-
-- [online food delivery](online%20food%20delivery.csv)
-  - **Description:**  
-    this is cleaned csv file extracted from its previous version.
-
-    ### JSON Data
-
-- [airports JSON file](airports.json)
-  - **Description:**  
-    the JSON file used for task2.
-
-- [View SQLite Database](sample.db)
-  - **Description:**  
-    SQL DataBase created from the task 3.
-
-
+  
 
     ## How to Run
 
